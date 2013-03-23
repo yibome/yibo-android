@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="service_provider">
+		<item>新浪微博</item>
+		<item>騰訊微博</item>
+		<item>搜狐微博</item>
+		<item>網易微博</item>
+		<item>飯否</item>
+		<item>Twitter</item>
+		<item>人人網</item>
+		<item>開心網</item>
+		<item>QQ空間</item>
+	</string-array>
+	<string-array name="locale_display">
+	    <item>自動</item>
+		<item>英文</item>
+		<item>簡體中文</item>
+		<item>繁體中文</item>
+	</string-array>	
+	<string-array name="font_size_display">
+	    <item>小</item>
+		<item>较小</item>
+		<item>中</item>
+		<item>较大</item>
+		<item>大</item>
+		<item>巨大</item>
+	</string-array>
+	<string-array name="update_interval_display">
+	    <item>30秒</item>
+	    <item>90秒</item>
+		<item>3分鐘</item>
+		<item>5分鐘</item>
+		<item>10分鐘</item>
+		<item>30分鐘</item>
+		<item>1小時</item>
+	</string-array>
+	<string-array name="image_upload_quality">
+	    <item>原圖</item>
+		<item>高質量</item>
+		<item>中等質量</item>
+		<item>低質量</item>
+		<item>自適應2G/3G/WIFI</item>
+	</string-array>
+	<string-array name="image_download_quality">
+		<item>高質量</item>
+		<item>低質量</item>
+		<item>自適應2G/3G/WIFI</item>
+	</string-array>
+	<string-array name="auto_load_comments">
+		<item>不自動加載評論</item>
+		<item>自動加載評論</item>
+		<item>自適應2G/3G/WIFI</item>
+	</string-array>	
+	<string-array name="show_thumbnail_policy">
+		<item>不顯示縮略圖</item>
+		<item>顯示縮略圖</item>
+		<item>自適應2G/3G/WIFI</item>
+	</string-array>
+	<string-array name="cache_strategy">
+	    <item>緩存2天內的微博</item>
+		<item>緩存3天內的微博</item>
+		<item>緩存5天內的微博</item>
+		<item>緩存7天內的微博</item>
+		<item>緩存14天內的微博</item>
+	</string-array>
+</resources>
